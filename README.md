@@ -1,4 +1,4 @@
-# 🧠 From Polygraphs to Pixels: My Journey Building a Real-Time AI-Based Lie Detector
+# My Journey Building a Real-Time AI-Based Lie Detector
 
 > 📌 Written by Sriniketh Bobbili | Final-year AIML student | [LinkedIn](https://www.linkedin.com/in/sriniketh-bobbili-577a70248/) | [GitHub](https://github.com/Srinikethbobbili17)
 
@@ -31,14 +31,6 @@ As part of my minor project, I worked on an **AI-IoT based Lie Detection System*
 
 ...
 
-## 🌍 Where Can This Be Used?
-
-- HR Interviews
-- Virtual therapy sessions
-- Border security screening
-- Remote exam proctoring
-
-...
 
 ## 📢 Interested in Collaborating?
 
